@@ -1,0 +1,24 @@
+{
+  "name": "@leonetti/timeparser",
+  "version": "0.0.1",
+  "description": "time parser",
+  "repository": "alexandreleonetti/timeparser",
+  "type": "module",
+	"exports": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  	"files": [
+		"dist"
+	],
+	"keywords": [
+		"type",
+		"types"
+  ],
+  "author":{
+		"name": "Alex Leonetti",
+		"url": "https://github.com/AlexandreLeonetti"
+	},
+  "license": "ISC"
+}
